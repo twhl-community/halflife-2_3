@@ -12,7 +12,9 @@
 #include "hud_servers.h"
 #include "net_api.h"
 #include <string.h>
+#include "winsani_in.h"
 #include <winsock.h>
+#include "winsani_out.h"
 
 static int	context_id;
 

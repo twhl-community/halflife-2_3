@@ -15,7 +15,9 @@
 #include "camera.h"
 #include "in_defs.h"
 
+#include "winsani_in.h"
 #include "windows.h"
+#include "winsani_out.h"
 
 float CL_KeyState (kbutton_t *key);
 

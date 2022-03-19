@@ -19,7 +19,9 @@
 #include "in_defs.h"
 #include "../engine/keydefs.h"
 #include "view.h"
+#include "winsani_in.h"
 #include "windows.h"
+#include "winsani_out.h"
 
 #define MOUSE_BUTTON_COUNT 5
 
