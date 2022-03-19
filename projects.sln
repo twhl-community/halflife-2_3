@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hl", "dlls\hl.vcxproj", "{0A8D3D82-A419-4EAB-8490-099EE55C252D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Profile|x86 = Profile|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A8D3D82-A419-4EAB-8490-099EE55C252D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0A8D3D82-A419-4EAB-8490-099EE55C252D}.Debug|x86.Build.0 = Debug|Win32
+		{0A8D3D82-A419-4EAB-8490-099EE55C252D}.Profile|x86.ActiveCfg = Profile|Win32
+		{0A8D3D82-A419-4EAB-8490-099EE55C252D}.Profile|x86.Build.0 = Profile|Win32
+		{0A8D3D82-A419-4EAB-8490-099EE55C252D}.Release|x86.ActiveCfg = Release|Win32
+		{0A8D3D82-A419-4EAB-8490-099EE55C252D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC609236-85F7-4B92-B362-C729DD4F4663}
+	EndGlobalSection
+EndGlobal
