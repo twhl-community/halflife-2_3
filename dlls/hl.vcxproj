@@ -107,7 +107,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
       <ModuleDefinitionFile>.\hl.def</ModuleDefinitionFile>
-      <OutputFile>.\Releasehl\hl.dll</OutputFile>
       <ImportLibrary>.\Releasehl\hl.lib</ImportLibrary>
       <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
@@ -149,7 +148,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
       <ModuleDefinitionFile>.\hl.def</ModuleDefinitionFile>
-      <OutputFile>.\Profilehl\hl.dll</OutputFile>
       <ImportLibrary>.\Profilehl\hl.lib</ImportLibrary>
       <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
@@ -193,7 +191,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
       <ModuleDefinitionFile>.\hl.def</ModuleDefinitionFile>
-      <OutputFile>.\debughl\hl.dll</OutputFile>
       <ImportLibrary>.\Debug\hl.lib</ImportLibrary>
       <AdditionalDependencies>user32.lib;advapi32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
