@@ -29,3 +29,7 @@ This SDK is provided as-is, with no further support provided.
 It is highly recommended to use the newer SDK provided by Valve here: https://github.com/ValveSoftware/halflife
 
 This SDK was designed for WON Half-Life and is not guaranteed to work with Steam Half-Life.
+
+Compiled dlls are placed in the `repository root/Debug` and `repository root/Release` directories. Place these in your mod directory to run them.
+
+Basic testing shows this SDK does work with both WON version 1.1.0.8 and Steam Half-Life, but it is not guaranteed to remain compatible with Steam Half-Life in the future.
